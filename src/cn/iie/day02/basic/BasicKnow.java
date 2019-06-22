@@ -32,5 +32,7 @@ public class BasicKnow {
         //三元运算符
         int score = 90;
         System.out.println("张三的成绩为:"+(score>=60?59:score));
+
+        Scanner sc  = new Scanner(system.in);
     }
 }
